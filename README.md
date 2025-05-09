@@ -54,12 +54,3 @@ cd server
 npm run dev
 # enjoy it
 ```
-
-## License
-
-Source code in this repository is made available under the [MIT License](https://github.com/xianjianlf2/MindGeniusAI/blob/main/LICENSE).
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=xianjianlf2/MindGeniusAI&type=Date)](https://star-history.com/#xianjianlf2/MindGeniusAI&Date)
-
