@@ -48,7 +48,7 @@ Auto generate MindMap with ChatGPT
 ## Installation
 ```bash
 git clone https://github.com/Kenxpx/MindMapGen.git
-cd MindMapGenV2
+cd MindMapGen
 cd server
 # config your env file (which file name is .env)
 # run server and client root path
