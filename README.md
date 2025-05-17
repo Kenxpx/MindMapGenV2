@@ -8,16 +8,11 @@
 - [x] Generate mindmap based on the result.
 - [x] Manually add nodes to the mindmap.
 - [x] Delete unnecessary nodes from the mindmap.
-- [x] Modify generated nodes in the mindmap.
-- [x] Render and display the result in markdown format.
 - [x] Export the result as a picture or JSON file.
 - [x] Support AI-generated content for individual nodes in the mindmap.
 - [x] Edit existing nodes in the mindmap.
 - [x] Provide chat support within the application.
 - [x] Allow importing files into the application for creating a new mindmap. 
-- [x] Add notes feature to include summary content and generate a comprehensive mindMap. 
-- [ ] Enable adding pictures to individual nodes in the mindmap. 
-- [ ] Automatically summarize web-linked articles when generating a mindmap
 
 ![mindmap](https://github.com/xianjianlf2/MindGeniusAI/blob/main/markdownImg/newSample.png?raw=true)
 ![mindmap](https://github.com/xianjianlf2/MindGeniusAI/blob/main/markdownImg/newDemo.gif?raw=true)
